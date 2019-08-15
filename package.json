@@ -2,7 +2,7 @@
   "name": "xenolithe-react-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://evansch.com",
+  "homepage": "https://evansch.com",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
